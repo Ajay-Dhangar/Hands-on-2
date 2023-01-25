@@ -1,0 +1,18 @@
+* {
+  margin-top: 10px;
+}
+body {
+  margin-left: 20px;
+  margin-right: 50px;
+}
+h1,
+h2 {
+  color: red;
+}
+ul li {
+  letter-spacing: 5px;
+  font-weight: 510;
+}
+a {
+  text-decoration: none;
+}
