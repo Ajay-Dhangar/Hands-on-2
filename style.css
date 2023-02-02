@@ -15,5 +15,7 @@ ul li {
 }
 a {
   text-decoration: none;
-  color:red;
+}
+mark {
+  color: red;
 }
